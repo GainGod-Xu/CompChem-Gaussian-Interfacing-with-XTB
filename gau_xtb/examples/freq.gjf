@@ -1,0 +1,5 @@
+%chk=mol.chk
+#P freq geom=allcheck external='./xtb.sh'
+
+
+

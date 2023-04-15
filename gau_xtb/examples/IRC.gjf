@@ -1,0 +1,5 @@
+%oldchk=mol.chk
+#P IRC(maxpoints=20,calcfc) geom=allcheck external='./xtb.sh'
+
+
+
